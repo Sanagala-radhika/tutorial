@@ -19,7 +19,8 @@ It responds to user messages with dynamic, context-aware text, mimicking a conve
  Lightweight: Only three files — index.html, style.css, and script.js.
 
  **Project Structure**
- chatbot/
+
+chatbot/
 │
 ├── index.html     # Chatbot layout
 ├── style.css      # Styling and theme
@@ -61,5 +62,6 @@ Simulating AI-like text generation logic
 
 
 This project is open-source and free to use for learning and experimentation.
+
 
 
