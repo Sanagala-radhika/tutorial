@@ -1,4 +1,4 @@
- Generative AI Chatbot (HTML • CSS • JavaScript)
+ #**Generative AI Chatbot (HTML • CSS • JavaScript)**
 
 A simple yet powerful Generative AI Chatbot simulation built using only HTML, CSS, and JavaScript.
 This project recreates the feel of a real AI assistant without any backend or API — perfect for beginners exploring how chatbots work.
@@ -61,3 +61,4 @@ Simulating AI-like text generation logic
 
 
 This project is open-source and free to use for learning and experimentation.
+
